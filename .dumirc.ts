@@ -13,7 +13,7 @@ if (process.env.NODE_ENV === 'production' && process.env.PREVIEW !== '1') {
 export default defineConfig({
   base,
   publicPath,
-  title: 'Happy UI',
+  title: 'Lycz UI',
   outputPath: 'doc-site',
   resolve: {
     docDirs: ['docs'],

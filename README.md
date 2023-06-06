@@ -1,3 +1,21 @@
+# 使用说明
+
+## 安装依赖
+
+pnpm install
+
+## 启动
+
+pnpm run dev
+
+## 创建新组件
+
+pnpm run new
+
+## 编写文档
+
+# 以下内容为原项目参考信息
+
 ## React 组件库搭建指南
 
 - [React 组件库搭建指南（一）：项目初始化](https://github.com/worldzhao/blog/issues/3)
@@ -17,7 +35,7 @@ pnpm install
 pnpm start
 ```
 
-按顺序执行完命令后，即可在 localhost:3000 端口看到以下内容：
+按顺序执行完命令后，即可在 localhost:8000 端口看到以下内容：
 
 ![preview](https://raw.githubusercontent.com/worldzhao/blog/master/images/rc-lib-v1-1.jpg)
 
