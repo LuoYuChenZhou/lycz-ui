@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "A React UI Library.",
   "keywords": [],
-  "homepage": "https://github.com/worldzhao/react-ui-library-tutorial#readme",
+  "homepage": "https://github.com/LuoYuChenZhou/lycz-ui#readme",
   "bugs": {
-    "url": "https://github.com/worldzhao/react-ui-library-tutorial/issues"
+    "url": "https://github.com/LuoYuChenZhou/lycz-ui/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/worldzhao/react-ui-library-tutorial.git"
+    "url": "git+https://github.com/LuoYuChenZhou/lycz-ui.git"
   },
   "license": "ISC",
   "main": "lib/index.js",
@@ -121,7 +121,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "authors": {
-    "name": "worldzhao",
-    "email": "1007326924@qq.com"
+    "name": "lzq",
+    "email": "lzq119163@163.com"
   }
 }
